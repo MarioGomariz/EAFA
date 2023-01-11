@@ -200,6 +200,20 @@ section {
   gap: 20px;
 }
 
+.services__info{
+  color: var(--grey);
+  text-align: left;
+  padding-right: 80px;
+  line-height: 40px;
+}
+
+.services__title{
+  color: var(--grey);
+  text-align: center;
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+
 
 .portfolio__grid {
   display: grid;
